@@ -8,5 +8,5 @@ I ❤ [Python](https://www.python.org/) and [Go](https://golang.org).
 * Finance/Algorithm Trading
 * Timeseries analysis
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk42&hide=html,jupyter%20notebook)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=tk42&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk42&hide=html,jupyter%20notebook&layout=compact&theme=dark)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=tk42&show_icons=true&count_private=true&line_height=20&theme=dark)
